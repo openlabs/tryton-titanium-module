@@ -1,0 +1,6 @@
+{
+    "name": "Tryton Titanium Model API",
+    "description": "A Titanium CommonJS Module that interacts with Tryton",
+    "version": "1.0.0",
+    "url": "http://github.com/openlabs/tryton-titanium-module"
+}
